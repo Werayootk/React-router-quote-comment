@@ -35,6 +35,7 @@ This project create for practice React-ROUTER skill.
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [React](https://reactjs.org/)
 * [React-ROUTER](https://reactrouter.com/)
+* [FireBase](https://console.firebase.google.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -60,6 +61,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+3. Create Project in firebase and get start realtime database then copy link connection to change in `api.js` FIREBASE_DOMAIN
+
+
 <!-- How to Use Your Project -->
 ## How to Use Your Project
 
